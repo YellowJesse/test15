@@ -2,4 +2,4 @@ hello world
 
 second change
 
-int a = 10;
+int a = 7
